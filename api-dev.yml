@@ -3,7 +3,7 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb://root:root@localhost:27017/xian62_0
+      uri: mongodb://192.168.3.170:27017/xian62_0
   redis:
     database: 0
     host: hyb-test-vm00.huayingbaolicai.com
