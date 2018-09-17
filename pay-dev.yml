@@ -3,7 +3,7 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb://192.168.3.170:27017/xian62_0
+      uri: mongodb://test_0:Xian62Mongo_test@dds-bp17964b8ebb26941.mongodb.rds.aliyuncs.com:3717,dds-bp17964b8ebb26942.mongodb.rds.aliyuncs.com:3717/test_0?replicaSet=mgset-3016261
   redis:
     database: 0
     host: hyb-test-vm00.huayingbaolicai.com
